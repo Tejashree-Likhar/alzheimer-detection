@@ -11,7 +11,6 @@ import argparse
 import torch
 from sklearn.metrics import classification_report, confusion_matrix
 import matplotlib.pyplot as plt
-import numpy as np
 
 from src.data import load_alzheimer_dataloaders, CLASS_NAMES
 from src.model import build_model
