@@ -9,6 +9,8 @@ from Hugging Face.
 > It has not been clinically validated and must never be used to make real diagnostic
 > or treatment decisions. Always consult a qualified healthcare professional.
 
+🔗 **[Live Demo](https://alzheimer-detectiongit-uwrk5nlabstx54vwmv9rtf.streamlit.app/)**
+
 ## Classes
 
 | Label | Class              |
